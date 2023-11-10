@@ -4,4 +4,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPEN_AI_API_KEY = os.getenv('OPEN_AI_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')

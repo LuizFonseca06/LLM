@@ -1,4 +1,4 @@
-from config import OPEN_AI_API_KEY
+from config import OPENAI_API_KEY
 
 
 # This is a sample Python script.
@@ -14,6 +14,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi(OPEN_AI_API_KEY)
+    print_hi(OPENAI_API_KEY)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
